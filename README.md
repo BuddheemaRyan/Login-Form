@@ -13,7 +13,7 @@ The form is displayed centered on a full-screen desert landscape background and 
 - Username input field
 - Password input field
 - "Remember me" checkbox
-- "Forgot password" link
+- "Forgot password?" link
 - Login button with basic client-side validation
 - "Register" link
 
